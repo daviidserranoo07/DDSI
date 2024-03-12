@@ -1,5 +1,6 @@
 # DDSI
 Realización de Prácticas de Grupo de 5 personas, con 2 seminarios:
+
 Primer Seminario: conexión a una base de datos relacional mediante Java y usando Oracle, segundo seminario
 Segundo Seminario: Instalación de base de datos no relacional mongoDB mediante consola y uso de comandos básicos para entender su funcionamiento
 
