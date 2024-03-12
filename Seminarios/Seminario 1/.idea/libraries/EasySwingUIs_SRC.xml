@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="EasySwingUIs-SRC">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Descargas/EasySwingUIs-SRC.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Descargas/EasySwingUIs-SRC.zip!/EasySwingUIs/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Descargas/EasySwingUIs-SRC.zip!/EasySwingUIs/src" />
+    </SOURCES>
+  </library>
+</component>
